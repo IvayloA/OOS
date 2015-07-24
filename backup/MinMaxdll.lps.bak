@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="2">
+    <Units Count="3">
       <Unit0>
         <Filename Value="MinMaxdll.pas"/>
         <IsPartOfProject Value="True"/>
@@ -14,10 +14,16 @@
       </Unit0>
       <Unit1>
         <Filename Value="..\OS011-master\p1.pas"/>
-        <IsVisibleTab Value="True"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit1>
+      <Unit2>
+        <Filename Value="..\OS011-master\stackinc.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
     </Units>
     <JumpHistory HistoryIndex="-1"/>
   </ProjectSession>

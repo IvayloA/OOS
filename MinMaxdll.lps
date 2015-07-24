@@ -14,13 +14,12 @@
       </Unit0>
       <Unit1>
         <Filename Value="..\OS011-master\p1.pas"/>
+        <EditorIndex Value="-1"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\OS011-master\stackinc.pas"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit2>

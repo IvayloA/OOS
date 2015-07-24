@@ -1,0 +1,22 @@
+unit RandomNum;
+
+{$mode objfpc}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils, SharedUnit;
+
+implementation
+
+ procedure RandmNum(q:NumShare;var x:Te;var y:Te); stdcall;
+  begin
+    x:= 21;
+    y:=30;
+   q^.num1:= x;
+   q^.num2:= y;
+  end;
+
+begin
+end.
+

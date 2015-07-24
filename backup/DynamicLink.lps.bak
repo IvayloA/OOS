@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="DynamicLink.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="29" Y="32"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="randomnum.pas"/>
+        <UnitName Value="RandomNum"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="25" Y="15"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\ami_oos-master\lab05\Units\ShareUnit.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="sharedunit.pas"/>
+        <UnitName Value="SharedUnit"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="17"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="21" Column="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="38" Column="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="13" Column="21"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="18" Column="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="19" Column="22"/>
+      </Position6>
+      <Position7>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="18" Column="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="19" Column="2"/>
+      </Position8>
+      <Position9>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="22" Column="12"/>
+      </Position9>
+      <Position10>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="13" Column="6"/>
+      </Position10>
+      <Position11>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="6" Column="45" TopLine="2"/>
+      </Position11>
+      <Position12>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="38" Column="13" TopLine="2"/>
+      </Position12>
+      <Position13>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="39" Column="4" TopLine="2"/>
+      </Position13>
+      <Position14>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="19" Column="4"/>
+      </Position14>
+      <Position15>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="18" Column="17"/>
+      </Position15>
+      <Position16>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="15" Column="36"/>
+      </Position16>
+      <Position17>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="20" Column="5"/>
+      </Position17>
+      <Position18>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="22"/>
+      </Position18>
+      <Position19>
+        <Filename Value="sharedunit.pas"/>
+        <Caret Line="23"/>
+      </Position19>
+      <Position20>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="31" Column="35"/>
+      </Position20>
+      <Position21>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="21" Column="3"/>
+      </Position21>
+      <Position22>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="22" Column="5"/>
+      </Position22>
+      <Position23>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="32" Column="29" TopLine="2"/>
+      </Position23>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
