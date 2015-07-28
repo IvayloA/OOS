@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="4">
+    <Units Count="5">
       <Unit0>
         <Filename Value="DynamicLink.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -35,6 +35,12 @@
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit3>
+      <Unit4>
+        <Filename Value="..\lib\i386-win32\unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit4>
     </Units>
     <JumpHistory Count="26" HistoryIndex="25">
       <Position1>
