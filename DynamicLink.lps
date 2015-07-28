@@ -8,8 +8,9 @@
       <Unit0>
         <Filename Value="DynamicLink.lpr"/>
         <IsPartOfProject Value="True"/>
-        <TopLine Value="2"/>
-        <CursorPos Y="21"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="67" Y="34"/>
         <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -17,7 +18,7 @@
         <Filename Value="randomnum.pas"/>
         <UnitName Value="RandomNum"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="25" Y="15"/>
+        <CursorPos X="14" Y="28"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit1>
@@ -29,14 +30,13 @@
       <Unit3>
         <Filename Value="sharedunit.pas"/>
         <UnitName Value="SharedUnit"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
         <CursorPos Y="17"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit3>
     </Units>
-    <JumpHistory Count="23" HistoryIndex="22">
+    <JumpHistory Count="26" HistoryIndex="25">
       <Position1>
         <Filename Value="DynamicLink.lpr"/>
         <Caret Line="21" Column="8"/>
@@ -129,6 +129,18 @@
         <Filename Value="DynamicLink.lpr"/>
         <Caret Line="32" Column="29" TopLine="2"/>
       </Position23>
+      <Position24>
+        <Filename Value="randomnum.pas"/>
+        <Caret Line="23" Column="15"/>
+      </Position24>
+      <Position25>
+        <Filename Value="randomnum.pas"/>
+        <Caret Line="17" Column="16"/>
+      </Position25>
+      <Position26>
+        <Filename Value="DynamicLink.lpr"/>
+        <Caret Line="22" Column="12" TopLine="2"/>
+      </Position26>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

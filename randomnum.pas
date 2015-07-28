@@ -7,10 +7,15 @@ interface
 uses
   Classes, SysUtils, SharedUnit;
 
+procedure RandmNum(var q:NumShare);
+
 implementation
 
- procedure RandmNum(q:NumShare;var x:Te;var y:Te); stdcall;
-  begin
+ procedure RandmNum(var q:NumShare);
+  var
+    x: integer;
+    y: integer;
+ begin
     x:= 1 + Random(100);
     y:= 1 + Random(100);
    q^.num1:= x;
@@ -18,5 +23,6 @@ implementation
   end;
 
 begin
+  Randomize;
 end.
 

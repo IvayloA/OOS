@@ -18,7 +18,9 @@ type
 
 
 begin
-   x:=p^.num1;
+  new(p);
+  RandmNum(p);
+  x:=p^.num1;
    y:=p^.num2;
   DLinkHandle := LoadLibrary('MinMaxdll.dll');
   if DLinkHandle <> 0 then begin
@@ -35,6 +37,6 @@ begin
     FreeLibrary(DLinkHandle);
   end;
   readln;
-
+  dispose(p);
 end.
 
